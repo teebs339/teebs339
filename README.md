@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Ateeb Shahid</h1>
 <h3 align="center">Automation Engineer | Former RPA Team Lead | Software Developer</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/teebs339?tab=repositories](https://github.com/teebs339?tab=repositories)
+
+- 📫 How to reach me **teeb.shahid@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ateeb-shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ateeb-shahid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ateeb-shahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ateeb-shahid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
