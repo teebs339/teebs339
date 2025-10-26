@@ -3,7 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/teebs339?tab=repositories](https://github.com/teebs339?tab=repositories)
 
-- 📫 How to reach me **teeb.shahid@gmail.com**
+- 💼 My portfolio: https://teebs339.github.io/portfolio/
+
+- ✉ How to reach me **teeb.shahid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
